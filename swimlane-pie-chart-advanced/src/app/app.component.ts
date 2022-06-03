@@ -19,7 +19,7 @@ export class AppComponent {
   isDoughnut: boolean = false;
 
   colorScheme = {
-    domain: ['#5AA454', '#A10A28', '#C7B42C', '#AAAAAA']
+    domain: ['#fce66a','#fdde90', '#faae67', '#cc6a08', '#ef6d49', '#d3342d','#a10a28', '#70071c']
   };
 
   constructor() {
